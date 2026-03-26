@@ -21,6 +21,7 @@ Unlike general AI tools, this application strictly focuses on **story generation
   * Genre
   * Tone
   * Writing Mode
+
 🎭 Genre-Based Storytelling
 
 Supports multiple genres:
@@ -31,38 +32,46 @@ Supports multiple genres:
 * 🔍 Mystery
 
 ✔ Ensures **strict genre consistency
+
 ✍️ Writing Modes
 
 * **Continue** → Extend the story
 * **Rewrite** → Recreate the story
 * **Enhance** → Improve story quality
+
 🔒 Smart Validation System
 Prevents non-story inputs:
 * Blocks coding, definitions, etc.
 * Ensures only storytelling prompts are accepted
-  🛡️ Content Restriction Filter
+
+🛡️ Content Restriction Filter
 Blocks:
 * Harmful content
 * Illegal topics
 * Non-story queries (actors, exams, etc.)
-   🎨 Dynamic UI Experience
+
+🎨 Dynamic UI Experience
 
 * Animated gradient backgrounds
 * Genre-based themes
 * Smooth chat interface
- 💾 Chat History
+
+💾 Chat History
 
 * Stores previous chats
 * Allows switching between stories
 * Maintains story flow
- 📥 Download Story
+
+📥 Download Story
 
 * Export AI-generated story as `.txt` file
+
 🖥️ Offline AI Support
 
 * Runs locally using **Ollama**
 * No API cost
 * Better privacy
+
 🏗️ Tech Stack
 
 | Component  | Technology      |
