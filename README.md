@@ -4,7 +4,7 @@ An AI-powered storytelling application that generates **creative, genre-based st
 
  🚀 Overview
 
-Narrative Flow Co-Writer is a **story-focused AI system** designed to help users:
+Narrative Flow Co-Writer is a **story-focused AI system** designed to help users: 
 
 * Generate creative stories
 * Maintain genre consistency
